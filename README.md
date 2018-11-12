@@ -1,2 +1,2 @@
 # depot
-send nudes 
+git config --global user.name "Votre Nom" 
